@@ -1,15 +1,15 @@
 /* Generic Settings */
 body {
     font-family: Verdana, Arial, Helvetica, sans-serif; 
-    color: #000000;
+    color: #e01010;
     font-size: 13px;
     text-align: justify;
-    background-color:#fff;
+    background-color:#300A24;
     background-position: left top;
 }
 
 div.midBox1 {
-    margin: 20px 8px 10px 8px;
+    margin: 10px 8px 10px 8px;
     padding: 8px 8px 0px 10px;
 }
 
@@ -32,7 +32,7 @@ h1 {
 	color: white;
 
     /* 2019 color */
-    background-color:#22b33c;
+    background-color:#003F5F;
 
     margin: 20px 0px 10px 0px;
     padding: 8px 0px 0px 10px;
@@ -79,16 +79,16 @@ bold {
 /* Frames for content */
 
 #main-frame {
-    width:1100px;
+    width:1260px;
     margin:auto;
-    background-color:white;
+    background-color:#F0F8FF;
     font-size:14px;
 }
 
 #sub-frame {
-    width:968px;
+    width:1110px;
     margin:auto;
-    background-color:white;
+    background-color:#F0F8FF;
 }
 
 
@@ -123,10 +123,10 @@ bold {
 }
 
 #heading {
-	background-image: url(../pics/banner_2021.jpg);
+	background-image: url(../pics/header_banner.jpg);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
-	background-size:25% 85%;
+	background-size:100% 135%;
 
     /* 2020 color */
     background-color:#368dc0;
@@ -139,7 +139,7 @@ bold {
     height:35px; 
 
     /* 2019 color */
-    background-color:#013a5a;
+    background-color:#300A24;
 
     color:#ffffff;
     font-size:12px;
@@ -179,7 +179,7 @@ bold {
     height:24px;
 
     /* 2019 color */
-    background-color:#2491b2;
+    background-color:#300A24;
 
     color:#fff;
     text-align:center;
@@ -195,8 +195,9 @@ bold {
 /* Generic description */
 
 #description {
-    width:900px;
+    width:1000px;
     margin:auto;
+    color:rgb(0, 0, 0);
 }
 
 
