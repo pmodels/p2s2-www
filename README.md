@@ -3,11 +3,11 @@
 The website is created by using **Jekyll** (https://jekyllrb.com/) and published via **Github Actions** (https://docs.github.com/en/actions). All editions from 2021 will be purely maintained on this github repository.
 
 ## History
-Old websites (2011-2020) are maintained at [gitlab](https://gitlab.com/pmodels/websites/ashes) and the web server is setup by Argonne.
+Old websites (2011-2020) are maintained at [gitlab](https://gitlab.com/pmodels/websites/p2s2) and the web server is setup by Argonne.
 However, we can no longer make any updates on the old websites. If any change is needed, please migrate the corresponding year's folder to
 this repository (need to transfer P2P files to Jekyll formats).
 
-If you need permisison to access [gitlab](https://gitlab.com/pmodels/websites/ashes), please email Min Si.
+If you need permisison to access [gitlab](https://gitlab.com/pmodels/websites/p2s2), please email Min Si.
 
 ## How to Modify
 The following steps show how to create a new 2022 workshop website as an example.
