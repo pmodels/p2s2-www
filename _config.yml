@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AsHES Special Issue Archive
-email: ashes@mcs.anl.gov
+title: P2S2 Special Issue Archive
+email: p2s2-chairs@mcs.anl.gov
 description: >- 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
