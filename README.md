@@ -7,7 +7,7 @@ Old websites (2011-2020) are maintained at [gitlab](https://gitlab.com/pmodels/w
 However, we can no longer make any updates on the old websites. If any change is needed, please migrate the corresponding year's folder to
 this repository (need to transfer P2P files to Jekyll formats).
 
-If you need permisison to access [gitlab](https://gitlab.com/pmodels/websites/p2s2), please email Min Si.
+If you need permission to access [gitlab](https://gitlab.com/pmodels/websites/p2s2), please email Min Si.
 
 ## How to Modify
 The following steps show how to create a new 2022 workshop website as an example.
