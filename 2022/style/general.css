@@ -4,7 +4,7 @@ body {
     color: #e01010;
     font-size: 13px;
     text-align: justify;
-    background-color:#300A24;
+    background-color:#561140;
     background-position: left top;
 }
 
@@ -32,7 +32,7 @@ h1 {
 	color: white;
 
     /* 2019 color */
-    background-color:#003F5F;
+    background-color:#627181;
 
     margin: 20px 0px 10px 0px;
     padding: 8px 0px 0px 10px;
@@ -123,7 +123,7 @@ bold {
 }
 
 #heading {
-	background-image: url(../pics/header_banner.jpg);
+	background-image: url(../pics/header_banner2.jpg);
 	background-position: 0% 0%;
 	background-repeat: no-repeat;
 	background-size:100% 135%;
@@ -139,7 +139,7 @@ bold {
     height:35px; 
 
     /* 2019 color */
-    background-color:#300A24;
+    background-color:#595959;
 
     color:#ffffff;
     font-size:12px;
@@ -179,7 +179,7 @@ bold {
     height:24px;
 
     /* 2019 color */
-    background-color:#300A24;
+    background-color:#595959;
 
     color:#fff;
     text-align:center;
